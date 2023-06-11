@@ -42,7 +42,7 @@ const navConfigs = [
   {
     key: navType.github1,
     label: 'ChatGpt4',
-    url: 'https://chat4.qianxunqq.cn',
+    url: '*',
   },
   {
     key: navType.chatService,
