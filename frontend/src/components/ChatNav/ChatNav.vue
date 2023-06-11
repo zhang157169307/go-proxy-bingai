@@ -36,12 +36,13 @@ const navType = {
 const navConfigs = [
   {
     key: navType.github,
-    label: '开源地址',
-    url: 'https://github.com/adams549659584/go-proxy-bingai',
+    label: 'ChatGpt',
+    url: 'https://chat.qianxunqq.cn',
   },
   {
-    key: navType.version,
-    label: '版本信息',
+    key: navType.github1,
+    label: 'ChatGpt4',
+    url: 'https://chat4.qianxunqq.cn',
   },
   {
     key: navType.chatService,
