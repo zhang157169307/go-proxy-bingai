@@ -37,7 +37,7 @@ const navConfigs = [
   {
     key: navType.github,
     label: 'ChatGpt',
-    url: 'https://chat.qianxunqq.cn',
+    url: 'https://zlchatgpt-web.up.railway.app',
   },
   {
     key: navType.github1,
